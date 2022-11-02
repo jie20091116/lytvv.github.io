@@ -1,4 +1,8 @@
-http://example.com/2022/10/30/%E6%B5%8B%E8%AF%95/
-http://example.com/2022/10/30/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/
-http://example.com/2022/10/30/hello-world/
-http://example.com/
+https://lytv.gitee.io/categories/index.html
+https://lytv.gitee.io/tags/index.html
+https://lytv.gitee.io/2022/11/02/hello/
+https://lytv.gitee.io/link/index.html
+https://lytv.gitee.io/2022/10/30/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/
+https://lytv.gitee.io/2022/10/30/hello-world/
+https://lytv.gitee.io/
+https://lytv.gitee.io/tags/Go/
