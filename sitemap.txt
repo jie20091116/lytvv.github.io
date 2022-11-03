@@ -5,10 +5,10 @@ https://lytv.gitee.io/other/stopPort/
 https://lytv.gitee.io/tags/index.html
 https://lytv.gitee.io/categories/index.html
 https://lytv.gitee.io/link/index.html
-https://lytv.gitee.io/Gallery/games.html
 https://lytv.gitee.io/Gallery/index.html
-https://lytv.gitee.io/Gallery/wallpaper.html
+https://lytv.gitee.io/Gallery/games.html
 https://lytv.gitee.io/about/index.html
+https://lytv.gitee.io/Gallery/wallpaper.html
 https://lytv.gitee.io/
 https://lytv.gitee.io/tags/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/
 https://lytv.gitee.io/tags/mysql/
