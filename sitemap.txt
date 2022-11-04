@@ -18,8 +18,8 @@ https://lytvv.github.io/categories/index.html
 https://lytvv.github.io/link/index.html
 https://lytvv.github.io/Gallery/games.html
 https://lytvv.github.io/Gallery/wallpaper.html
-https://lytvv.github.io/about/index.html
 https://lytvv.github.io/Gallery/index.html
+https://lytvv.github.io/about/index.html
 https://lytvv.github.io/
 https://lytvv.github.io/tags/%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/
 https://lytvv.github.io/tags/mysql/
